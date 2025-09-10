@@ -1,4 +1,4 @@
-# Recurrent Neural Networks (CNN) 
+# Convolutional Neural Networks (CNN) 
 
 ## Project Overview
 
