@@ -1,0 +1,7 @@
+tensorflow[and-cuda]==2.20.0
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
